@@ -16,7 +16,7 @@ I am always open to exploring opportunities in related fields and am particularl
 
 ### 🔍 Research Interests
 
-- Application of Artificial Intelligence
+- Application of Artificial Intelligence(Majorly in Healthcare)
 - Machine Learning, Deep Learning
 - Autonomous Systems
 - Computer Vision
