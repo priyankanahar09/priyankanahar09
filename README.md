@@ -35,8 +35,8 @@ I am always open to exploring opportunities in related fields and am particularl
 
 ### 🌱 Currently Learning
 
-- Advanced techniques in machine learning and computer vision.
-
+- Advanced techniques in machine learning.
+- LLMs and LangChain
 
 ---
 
