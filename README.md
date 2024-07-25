@@ -2,7 +2,7 @@
 
 ### 🌟 About Me
 
-Hello! I'm Priyanka Nahar, a passionate and driven Computer Science professional with a keen interest in machine learning, computer vision. I hold a Master's degree in Neural Networks and Computers from Moscow Institute of Physics and Technology and a Bachelor's degree in Computer Science from the University of Petroleum and Energy Studies, India.
+Hello! I'm Priyanka Nahar, a passionate and driven Computer Science professional with a keen interest in machine learning, computer vision. I hold a Master's degree in Neural Networks and Computers from Moscow Institute of Physics and Technology and a Bachelor's degree in Computer Science from the UPES, University of Tomorrow, India.
 
 I am enthusiastic about leveraging AI and machine learning to solve real-world problems, and I have extensive experience in deploying machine learning models, computer vision algorithms, and working with cloud infrastructure. I thrive in environments that challenge my skills and push the boundaries of what is possible with technology.
 
@@ -16,7 +16,7 @@ I am always open to exploring opportunities in related fields and am particularl
 
 ### 🔍 Research Interests
 
-- Application of Artificial Intelligence(Majorly in Healthcare)
+- Application of Artificial Intelligence
 - Machine Learning, Deep Learning
 - Autonomous Systems
 - Computer Vision
