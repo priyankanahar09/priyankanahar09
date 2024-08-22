@@ -19,7 +19,7 @@ I am always open to exploring opportunities in related fields and am particularl
 - Application of Artificial Intelligence
 - Machine Learning, Deep Learning
 - Autonomous Systems
-- Computer Vision
+
 
 
 
